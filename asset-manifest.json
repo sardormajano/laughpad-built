@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40041ab0.css",
+    "main.js": "/static/js/main.791a0e2e.js",
+    "static/js/377.dacd7c12.chunk.js": "/static/js/377.dacd7c12.chunk.js",
+    "static/media/home-bg.svg": "/static/media/home-bg.390fbf7390c548410de8.svg",
+    "static/media/OpenSans-LightItalic.ttf": "/static/media/OpenSans-LightItalic.34eb76e1135c646df8f9.ttf",
+    "static/media/OpenSans-Italic.ttf": "/static/media/OpenSans-Italic.79c81eb67c8c53b33a29.ttf",
+    "static/media/OpenSans-BoldItalic.ttf": "/static/media/OpenSans-BoldItalic.ed58bc283d35f0fd48b3.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+    "static/media/OpenSans-Light.ttf": "/static/media/OpenSans-Light.846a12caf01a940847a7.ttf",
+    "service-worker.js": "/service-worker.js",
+    "static/media/burger-icon-light.svg": "/static/media/burger-icon-light.9b835f1f34080c234c9d.svg",
+    "static/media/burger-icon-dark.svg": "/static/media/burger-icon-dark.1c26484667408cbf4fa6.svg",
+    "index.html": "/index.html",
+    "static/media/icon-close.svg": "/static/media/icon-close.e01ac286c32286f21c69.svg",
+    "main.40041ab0.css.map": "/static/css/main.40041ab0.css.map",
+    "main.791a0e2e.js.map": "/static/js/main.791a0e2e.js.map",
+    "377.dacd7c12.chunk.js.map": "/static/js/377.dacd7c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40041ab0.css",
+    "static/js/main.791a0e2e.js"
+  ]
+}
